@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"				"Internet's Administration"
+	"version"			"0.0.0.2"
+	"up_date"			"00/00/00"
+	"author_name"		"Doctor Internet"
+	"info"				"Provides Administrative Capabilities, above and beyond regular GMod."
+	"override"			"0"
+}
